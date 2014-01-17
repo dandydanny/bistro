@@ -1,0 +1,20 @@
+Helpful notes to self:
+
+ruby bistro.rb [command] [parameter]
+
+Commands & Sample Parameters
+load recipes.csv
+ - Loads the recipes.csv into memory.
+list
+ - List all recipes
+sortedlist
+ - List all recipes in alphabetical order
+display 1
+ - Displays the recipe with ID number 1.
+start
+ - Start the main user interface.
+bistro.rb /?
+ - Displays the sample useage examples you're reading now.
+
+Recipe objects initialized by hash
+Recipes are kept in @recipes array
