@@ -1,5 +1,8 @@
 Helpful notes to self:
 
+Previous attempt:
+https://gist.github.com/dandydanny/ca5449e2129cf1492a83
+
 ruby bistro.rb [command] [parameter]
 
 Commands & Sample Parameters
